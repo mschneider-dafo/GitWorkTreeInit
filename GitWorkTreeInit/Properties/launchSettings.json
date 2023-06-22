@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GitWorkTreeInit": {
+      "commandName": "Project",
+      "commandLineArgs": "D:/gittree/acron_NG -r"
+    }
+  }
+}
